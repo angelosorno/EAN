@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "8359d6a5d7803379",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e7a8a9fc0c6d341",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7b7baa678ee0f02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Curso Competencias Directivas/Introducion/Desarrollo de competencias directivas y modelos de alta gerencia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "802a6fc559eef1dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Curso Pensamiento Estrategico/Intro Auto Evaluacion 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "572cf88a8b64b9d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Curso Pensamiento Estrategico/Intro Auto Evaluacion 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "097b643637385ca1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Curso Competencias Directivas/Introducion/Desarrollo de competencias directivas y modelos de alta gerencia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "02496b030540af75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Curso Competencias Directivas/Tutoria 2/Tutoria 2 - 14 de Febrero de 2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6603961a1f622c32",
+    "type": "split",
+    "children": [
+      {
+        "id": "2799760c86c09e54",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1d28ee9c21c6430",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dfb6810a7ee08da9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "03b9a18ce3bdacc7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "36bf43d1039d390d",
+    "type": "split",
+    "children": [
+      {
+        "id": "906c67b29c77fb0b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe75500ab0b368b2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Curso Pensamiento Estrategico/Intro Auto Evaluacion 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1ad9b1cd1204bacf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Curso Pensamiento Estrategico/Intro Auto Evaluacion 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8be1869708f8835f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "45dbf048916b66f2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Curso Pensamiento Estrategico/Intro Auto Evaluacion 1.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Crear nuevo lienzo": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "e1d28ee9c21c6430",
+  "lastOpenFiles": [
+    "README.md",
+    "Pasted image 20240305230514.png",
+    "Pasted image 20240305230412.png",
+    "Pasted image 20240305225825.png",
+    "Pasted image 20240305215148.png",
+    "Pasted image 20240305215121.png",
+    "Pasted image 20240305214802.png",
+    "Pasted image 20240305214644.png",
+    "Pasted image 20240305214602.png",
+    "Pasted image 20240305214553.png",
+    "Pasted image 20240305214528.png",
+    "Curso Pensamiento Estrategico/Resumen Pensamiento Estrategico.md",
+    "Curso Pensamiento Estrategico/Intro Auto Evaluacion 1.md",
+    "Curso Pensamiento Estrategico/Sin título.md",
+    "Curso Competencias Directivas/Tutoria 1/Tutoria 1 - 7 Febrero 2024.md",
+    "Curso Competencias Directivas/Introducion/Desarrollo de competencias directivas y modelos de alta gerencia.md",
+    "Curso Pensamiento Estrategico",
+    "Curso Competencias Directivas/Tutoria 2/Tutoria 2 - 14 de Febrero de 2024.md",
+    "Curso Competencias Directivas/Introducion",
+    "Curso Competencias Directivas/Tutoria 2",
+    "Curso Competencias Directivas/Tutoria 1",
+    "Curso Competencias Directivas"
+  ]
+}
