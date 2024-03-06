@@ -45,6 +45,12 @@ Que le ingresa y que le sale.
 Matriz VRIO
 ![[Pasted image 20240305215121.png]]
 ![[Pasted image 20240305215148.png]]
+![[Pasted image 20240305233213.png]]
+![[Pasted image 20240305233420.png]]
+
+![[Pasted image 20240305233626.png]]
+
+
 
 
 
@@ -88,4 +94,13 @@ Guia 1
 ![[Pasted image 20240305230412.png]]
 
 ![[Pasted image 20240305230514.png]]
+
+![[Pasted image 20240305231312.png]]
+![[Pasted image 20240305231631.png]]
+
+![[Pasted image 20240305231833.png]]
+
+![[Pasted image 20240305231950.png]]
+
+![[Pasted image 20240305232803.png]]
 
